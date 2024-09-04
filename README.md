@@ -25,7 +25,7 @@ CREATE TABLE Usuario (
 	usuID numeric(18, 0) primary key not null IDENTITY(1,1),
 	nombre varchar(100) null,
 	apellido varchar(100) null
-	);
+);
 ```
 ### Variables de entorno
 Las cadenas de conexión y otras configuraciones están almacenadas en el archivo `appsettings.json`. Aquí se define la cadena de conexión a la base de datos y los orígenes permitidos para CORS.
