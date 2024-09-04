@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F647D30-3A16-432D-827E-DD50E43A5C9B}|BackendApi\\BackendApi.csproj|c:\\proyectos\\pruebatecnica\\sixdegrees\\backendapi\\backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F647D30-3A16-432D-827E-DD50E43A5C9B}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F647D30-3A16-432D-827E-DD50E43A5C9B}|BackendApi\\BackendApi.csproj|c:\\proyectos\\pruebatecnica\\sixdegrees\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F647D30-3A16-432D-827E-DD50E43A5C9B}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F7129E-B4B1-4C50-B303-80F2B118476C}|AccesoDatos\\AccesoDatos.csproj|c:\\proyectos\\pruebatecnica\\sixdegrees\\backendapi\\accesodatos\\accesodatosusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F7129E-B4B1-4C50-B303-80F2B118476C}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesodatosusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F647D30-3A16-432D-827E-DD50E43A5C9B}|BackendApi\\BackendApi.csproj|c:\\proyectos\\pruebatecnica\\sixdegrees\\backendapi\\backendapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F647D30-3A16-432D-827E-DD50E43A5C9B}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F647D30-3A16-432D-827E-DD50E43A5C9B}|BackendApi\\BackendApi.csproj|c:\\proyectos\\pruebatecnica\\sixdegrees\\backendapi\\backendapi\\servicios\\usuarios\\serviciousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F647D30-3A16-432D-827E-DD50E43A5C9B}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\servicios\\usuarios\\serviciousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F7129E-B4B1-4C50-B303-80F2B118476C}|AccesoDatos\\AccesoDatos.csproj|c:\\proyectos\\pruebatecnica\\sixdegrees\\backendapi\\accesodatos\\accesodatosdapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F7129E-B4B1-4C50-B303-80F2B118476C}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesodatosdapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DB26D2-F3A8-4355-8678-881AB09A6D2A}|Negocios\\Negocios.csproj|c:\\proyectos\\pruebatecnica\\sixdegrees\\backendapi\\negocios\\negociousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DB26D2-F3A8-4355-8678-881AB09A6D2A}|Negocios\\Negocios.csproj|solutionrelative:negocios\\negociousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\BackendApi\\Program.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\BackendApi\\Program.cs",
+              "RelativeToolTip": "BackendApi\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:25:23.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\BackendApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendApi\\appsettings.json",
+              "ToolTip": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\BackendApi\\appsettings.json",
+              "RelativeToolTip": "BackendApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T19:23:30.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\BackendApi\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\BackendApi\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "BackendApi\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:16:59.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioUsuarios.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\BackendApi\\Servicios\\Usuarios\\ServicioUsuarios.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Servicios\\Usuarios\\ServicioUsuarios.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\BackendApi\\Servicios\\Usuarios\\ServicioUsuarios.cs",
+              "RelativeToolTip": "BackendApi\\Servicios\\Usuarios\\ServicioUsuarios.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:14:41.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NegocioUsuario.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\Negocios\\NegocioUsuario.cs",
+              "RelativeDocumentMoniker": "Negocios\\NegocioUsuario.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\Negocios\\NegocioUsuario.cs",
+              "RelativeToolTip": "Negocios\\NegocioUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:57:52.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesoDatosUsuarios.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\AccesoDatos\\AccesoDatosUsuarios.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\AccesoDatosUsuarios.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\AccesoDatos\\AccesoDatosUsuarios.cs",
+              "RelativeToolTip": "AccesoDatos\\AccesoDatosUsuarios.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAewB4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:55:45.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccesoDatosDapper.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\AccesoDatos\\AccesoDatosDapper.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\AccesoDatosDapper.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaTecnica\\SixDegrees\\BackendApi\\AccesoDatos\\AccesoDatosDapper.cs",
+              "RelativeToolTip": "AccesoDatos\\AccesoDatosDapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:38:34.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

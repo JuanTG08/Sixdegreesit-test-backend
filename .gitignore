@@ -1,0 +1,18 @@
+# Archivos de entorno
+.env
+
+# Configuraciones de usuarios
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos binarios
+bin/
+obj/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Dependencias de paquetes
+packages/
