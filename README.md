@@ -19,12 +19,12 @@ cd turepositorio
 1. Asegúrate de tener una instancia de SQL Server en ejecución.
 2. Crea la base de datos y la tabla `Usuario` con el siguiente script SQL:
 ```sql
-	CREATE DATABASE PruebaSD;
-	USE PruebaSD;
-	CREATE TABLE Usuario (
-		usuID numeric(18, 0) primary key not null IDENTITY(1,1),
-		nombre varchar(100) null,
-		apellido varchar(100) null
+CREATE DATABASE PruebaSD;
+USE PruebaSD;
+CREATE TABLE Usuario (
+	usuID numeric(18, 0) primary key not null IDENTITY(1,1),
+	nombre varchar(100) null,
+	apellido varchar(100) null
 	);
 ```
 ### Variables de entorno
