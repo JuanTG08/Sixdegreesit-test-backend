@@ -12,7 +12,7 @@ bin/
 obj/
 
 # Archivos de configuración de VS Code
-.vscode/
+.vscode/*
 
 # Dependencias de paquetes
 packages/
